@@ -81,3 +81,30 @@ The structure of the project files should go as follows.
     ├── evaluate.py
     └── __init__.py
 ```
+
+#### Citation:
+
+If you find our approach useful in your research, please cite our papers:
+[1] Z. Zhang, J. Wang, G. Lu, Towards Discriminative Visual Search via Semantically Cycle-consistent Hashing Networks, in Proc. of The ACM Multimedia Asia, 2021.  
+[2] Z. Zhang, J. Wang, L. Zhu, G. Lu, Discriminative Visual Similarity Search with Semantically Cycle-consistent Hashing Networks, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 18(2s): 1-21, 2022.
+
+```
+@incollection{zhang2021towards,
+  title={Towards Discriminative Visual Search via Semantically Cycle-consistent Hashing Networks},
+  author={Zhang, Zheng and Wang, Jianning and Lu, Guangming},
+  booktitle={ACM Multimedia Asia},
+  pages={1--7},
+  year={2021}
+}
+
+@article{zhang2022discriminative,
+  title={Discriminative Visual Similarity Search with Semantically Cycle-consistent Hashing Networks},
+  author={Zhang, Zheng and Wang, Jianning and Zhu, Lei and Lu, Guangming},
+  journal={ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)},
+  volume={18},  
+  number={2s},  
+  pages={1--21},  
+  year={2022},
+  publisher={ACM New York, NY}
+}
+```
